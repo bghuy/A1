@@ -1,0 +1,2 @@
+﻿  mainA.cpp
+D:\Visual Studio\A1\A1\mainA.cpp(48,4): error C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
